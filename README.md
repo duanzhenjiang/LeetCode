@@ -17,6 +17,8 @@
 ## 联系方式 📫
 如果你也在刷题或者有任何问题想讨论，欢迎联系我：
 - Email: duanzhenjiang0@gmail.com
+- WeChat: duanzhenjiangqaq
+- QQ: 2118641575
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile/)
 - Twitter: [Your Twitter](https://twitter.com/your_handle)
 
